@@ -2,8 +2,6 @@
 
 A comprehensive Grafana dashboard for monitoring Hyper-V hosts and related infrastructure. This dashboard provides real-time insights into service status, CPU, memory, disk space, and network bandwidth using Prometheus as the data source.
 
-![Dashboard Preview] 
-*(Add a screenshot of your imported dashboard here for better visualization.)*
 <img width="1887" height="915" alt="Screenshot 2025-11-19 160637" src="https://github.com/user-attachments/assets/ec8799bc-5fe2-43e7-bc10-d59a2bf4f578" />
 
 ## Features
